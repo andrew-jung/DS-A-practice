@@ -1,4 +1,7 @@
-# LeetCode
-Practice problems from LeetCode or other sources, various languages 
-
-
+# Data structures and algorithm study/practice
+---
+## Problems from LeetCode/Hackerrank
+* Happy Numbers
+---
+## KhanAcademy Algorithm
+* Sorts
