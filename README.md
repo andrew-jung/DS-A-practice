@@ -1,7 +1,7 @@
 # Data structures and algorithm study/practice
 ---
-## Problems from LeetCode/Hackerrank
+### Problems from LeetCode/Hackerrank
 * Happy Numbers
 ---
-## KhanAcademy Algorithm
+### KhanAcademy Algorithm
 * Sorts
