@@ -3,4 +3,6 @@
 ### Problems from LeetCode/Hackerrank
 ---
 ### KhanAcademy Algorithms 
+* BinarySearch
+* SelectionSort
 
